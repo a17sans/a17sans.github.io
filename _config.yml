@@ -1,3 +1,40 @@
 theme: jekyll-theme-minimal
 title: [Alric SANS]
 description: [This is a little description of my site.]
+
+author:
+  name             : "Alric SANS"
+  avatar           : "plot3.png"
+  bio              : "This is my BIO"
+  location         : "This is my location"
+  employer         : "This is my employer"
+  pubmed           : 
+  googlescholar    : 
+  email            : "alric.sans[at]imt-atlantique.fr"
+  researchgate     : 
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "a17sans"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : #https://www.linkedin.com/in/fablet-ronan-49a4547a
+  orcid            : #"https://orcid.org/0000-0002-6462-423X"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #"replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
