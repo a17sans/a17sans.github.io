@@ -5,9 +5,9 @@ Link to one-page CV :
 ### Education
 
 2017 - 2020 : **IMT Atlantique**, Brest (29), FR | Engineering School in apprenticeship
-Mathematical and Computational Engineering 
-**Main subjects :**
-*Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
+ | Mathematical and Computational Engineering 
+ | **Main subjects :**
+ | *Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
 
 2015 - 2017 : **Lycée Jean Perrin**, Lyon (69), FR | Preparing class for the competitive exams to the French Grandes Ecoles
 **Main subjects :**
