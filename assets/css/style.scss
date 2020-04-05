@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-nav {
+.menu {
   float: right;
+  background-color: blue;
   max-height: 0;
   width: 100%;
   -webkit-transition: max-height 0.3s; 
