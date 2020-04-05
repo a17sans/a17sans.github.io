@@ -4,18 +4,11 @@ Link to one-page CV :
 
 ### Education
 
-2017 - 2020 : **IMT Atlantique**, Brest (29), FR | Engineering School in apprenticeship
- | Mathematical and Computational Engineering 
- | **Main subjects :**
- | *Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
+2017 - 2020 : **IMT Atlantique**, Brest (29), FR | Engineering School in apprenticeship (Mathematical and Computational Engineering) **Main subjects :** *Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
 
-2015 - 2017 : **Lycée Jean Perrin**, Lyon (69), FR | Preparing class for the competitive exams to the French Grandes Ecoles
-**Main subjects :**
-Mathematics, Physics
+2015 - 2017 : **Lycée Jean Perrin**, Lyon (69), FR | Preparing class for the competitive exams to the French Grandes Ecoles **Main subjects :** Mathematics, Physics
 
-2013 - 2015 : **IUT Annecy**, Annecy (74), FR | Networking and Telecomunications University Technical Degree (DUT)
-**Main subjects :**
-Networking, Programming, Signal Transmission Basics
+2013 - 2015 : **IUT Annecy**, Annecy (74), FR | Networking and Telecomunications University Technical Degree (DUT) **Main subjects :** Networking, Programming, Signal Transmission Basics
 
 --- 
 
@@ -33,9 +26,6 @@ Networking, Programming, Signal Transmission Basics
 
 ### Experience
 
-2017 - 2020 : **C#, .NET, SQL Server** | Orange Wholesale France *OWF/DSO*, Lyon (69), FR \n
-  Development and Datawarehouse maintenance engineer (apprentice) 
-  Automatization of processes (Excel files) through data collection (SQL Server Databases) and data vizualisation (Power BI, MVC .NET)
+2017 - 2020 : **C#, .NET, SQL Server** | Orange Wholesale France *OWF/DSO*, Lyon (69), FR | Development and Datawarehouse maintenance engineer (apprentice), Automatization of processes (Excel files) through data collection (SQL Server Databases) and data vizualisation (Power BI, MVC .NET)
 
-2019 (2 months) : **Python** | De Montfort University, Leicester, UK
-  Development of a 3D reconstruction system, and its associated GUI, for object modeling.
+2019 (2 months) : **Python** | De Montfort University, Leicester, UK | Development of a 3D reconstruction system, and its associated GUI, for object modeling.
