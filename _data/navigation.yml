@@ -1,6 +1,6 @@
 main:
   - title: "Folder 1"
-    url: /folder1/page1.md
+    url: /folder1/page1.html
 
   - title: "Folder 2"
-    url: /folder2/page2.md
+    url: /folder2/page2.html
