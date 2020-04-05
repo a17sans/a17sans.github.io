@@ -44,6 +44,10 @@
 
       <h1> This is a test </h1>
 
+      {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+
       </section>
       <footer>
         {% if site.github.is_project_page %}
