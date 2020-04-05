@@ -1,4 +1,7 @@
 main:
+  - title: "Home"
+    url: /index.html
+
   - title: "Folder 1"
     url: /folder1/page1.html
 
