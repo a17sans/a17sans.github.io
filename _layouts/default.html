@@ -39,21 +39,14 @@
         {% endif %}
       </header>
 
-      <h3>Before</h3>
-      {{ nav_list }}
-      <h3>After</h3>
 
       <section>
-
-
-
+        <nav class="menu">
+          {% for link in site.data.navigation.main %}
+            <li class="menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </nav>
       {{ content }}
-
-      <h1> This is a test </h1>
-
-      {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
-      {% endfor %}
 
       </section>
       <footer>
