@@ -5,13 +5,12 @@
 
 .menu {
   float: right;
-  background-color: blue;
   max-height: 0;
   width: 100%;
-  -webkit-transition: max-height 0.3s; 
-     -moz-transition: max-height 0.3s;
-       -o-transition: max-height 0.3s;
-          transition: max-height 0.3s;
+  border-bottom: 1px;
+  border-bottom-color: lightgray;
+  border-bottom-style: solid;
+  mardin-bottom: 2em;
 }
 
 nav ul {
@@ -23,7 +22,6 @@ nav ul {
 nav li {
   display: block;
   text-align: center;
-  background-color: red;
 }
   
 nav a {
