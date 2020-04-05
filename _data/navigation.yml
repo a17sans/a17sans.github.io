@@ -1,9 +1,6 @@
 main:
-  - title: "Home"
-    url: /index.html
-
-  - title: "Folder 1"
-    url: /folder1/page1.html
+  - title: "CV"
+    url: CV.html
 
   - title: "Folder 2"
     url: /folder2/page2.html
