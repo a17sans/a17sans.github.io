@@ -10,7 +10,7 @@
   border-bottom: 1px;
   border-bottom-color: lightgray;
   border-bottom-style: solid;
-  mardin-bottom: 2em;
+  margin-bottom: 2em;
 }
 
 nav ul {
@@ -20,8 +20,9 @@ nav ul {
 }
   
 nav li {
-  display: block;
+  display: inline-block;
   text-align: center;
+  font-size: large;
 }
   
 nav a {
