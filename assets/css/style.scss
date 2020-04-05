@@ -31,11 +31,19 @@ nav a {
 }
 
 #github:before{
-  content: url(/images/Github-Mark.png);
-  width: 12px;
+  content:"";
+  display:inline-block;
+  width:12px;
+  height:12px;
+  background:url(/images/GitHub-Mark.png);
+  background-size:100%;
 }
 
 #linkedin:before{
-  content: url(/images/linkedin.png);
-  width: 12px;
+  content:"";
+  display:inline-block;
+  width:12px;
+  height:12px;
+  background:url(/images/linkedin.png);
+  background-size:100%;
 }
