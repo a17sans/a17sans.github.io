@@ -4,20 +4,26 @@ Link to one-page CV :
 
 ## Education
 
+---
 2017 - 2020 : **IMT Atlantique**, Brest (29), FR 
 
 ---
-Engineering School in apprenticeship (Mathematical and Computational Engineering) **Main subjects :** *Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
+Engineering School in apprenticeship (Mathematical and Computational Engineering) 
+**Main subjects :** *Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
 
+---
 2015 - 2017 : **Lycée Jean Perrin**, Lyon (69), FR 
 
 ---
-Preparing class for the competitive exams to the French Grandes Ecoles **Main subjects :** Mathematics, Physics
+Preparing class for the competitive exams to the French Grandes Ecoles 
+**Main subjects :** Mathematics, Physics
 
+---
 2013 - 2015 : **IUT Annecy**, Annecy (74), FR 
 
 ---
-Networking and Telecomunications University Technical Degree (DUT) **Main subjects :** Networking, Programming, Signal Transmission Basics
+Networking and Telecomunications University Technical Degree (DUT) 
+**Main subjects :** Networking, Programming, Signal Transmission Basics
 
 <br/>
 
