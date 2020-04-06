@@ -47,3 +47,12 @@ nav a {
   background:url(/images/linkedin.png);
   background-size:100%;
 }
+
+#email:before{
+  content:"";
+  display:inline-block;
+  width:12px;
+  height:12px;
+  background:url(/images/mail.png);
+  background-size:100%;
+}
