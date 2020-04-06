@@ -2,17 +2,23 @@
 
 Link to one-page CV : 
 
-### Education
+## Education
 
-2017 - 2020 : **IMT Atlantique**, Brest (29), FR | Engineering School in apprenticeship (Mathematical and Computational Engineering) **Main subjects :** *Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
+2017 - 2020 : **IMT Atlantique**, Brest (29), FR 
+---
+Engineering School in apprenticeship (Mathematical and Computational Engineering) **Main subjects :** *Signal Processing, Machine Learning, Computational Imaging, Computer Vision*
 
-2015 - 2017 : **Lycée Jean Perrin**, Lyon (69), FR | Preparing class for the competitive exams to the French Grandes Ecoles **Main subjects :** Mathematics, Physics
+2015 - 2017 : **Lycée Jean Perrin**, Lyon (69), FR 
+---
+Preparing class for the competitive exams to the French Grandes Ecoles **Main subjects :** Mathematics, Physics
 
-2013 - 2015 : **IUT Annecy**, Annecy (74), FR | Networking and Telecomunications University Technical Degree (DUT) **Main subjects :** Networking, Programming, Signal Transmission Basics
+2013 - 2015 : **IUT Annecy**, Annecy (74), FR 
+---
+Networking and Telecomunications University Technical Degree (DUT) **Main subjects :** Networking, Programming, Signal Transmission Basics
 
---- 
+<br/>
 
-### Most recent teaching projects
+## Most recent teaching projects
 
 2020 : **Python** | Implementation of LSSC (Learned Simultaneous Sparse Coding) method for image restauration, from research publication [Mairal and al](https://www.di.ens.fr/~fbach/iccv09_mairal.pdf)
 
@@ -22,7 +28,7 @@ Link to one-page CV :
 
 2019 : **Julia** | Machine Learning applied on hyperspectral images for texture decomposition
 
---- 
+<br/>
 
 ### Experience
 
