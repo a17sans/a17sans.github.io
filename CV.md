@@ -39,7 +39,7 @@ Link to one-page CV :
 
 ## Experience
 
-2017 - 2020 : **C#, .NET, SQL Server** | Orange Wholesale France, Lyon, FR
+2017 - 2020 : **C#, .NET, SQL** | Orange Wholesale France, Lyon, FR
 
 > Development and Datawarehouse maintenance engineer (apprentice), Automatization of processes (Excel files) through data collection (SQL Server Databases) and data vizualisation (Power BI, MVC .NET)
 
