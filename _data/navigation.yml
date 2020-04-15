@@ -1,6 +1,3 @@
 main:
   - title: "CV"
     url: CV.html
-
-  - title: "Folder 2"
-    url: /folder2/page2.html
