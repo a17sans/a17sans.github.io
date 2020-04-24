@@ -16,6 +16,6 @@ I am very interested in all the Image field (Computational Imaging, Computer Vis
 
 <br/>
 
-![alt text](/images/Porspoder.PNG "Porspoder.png")
+![alt text](/images/index/Porspoder.PNG "Porspoder.png")
 
 Top right corner : picture taken in Porspoder (29), FR. All 3 other pictures were generated using [DeepDream](https://github.com/google/deepdream) (With Caffee DeepLearning framework).
