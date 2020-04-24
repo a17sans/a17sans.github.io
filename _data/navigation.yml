@@ -2,5 +2,8 @@ main:
   - title: "CV"
     url: CV.html
 
-  - title: "Computer vision"
+  - title: "Comp. vision"
     url: computer_vision.html
+
+  - title: "Comp. imaging"
+    url: computational_imaging.html
