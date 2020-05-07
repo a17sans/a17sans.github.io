@@ -7,3 +7,6 @@ main:
 
   - title: "Comp. imaging"
     url: computational_imaging.html
+
+  - title: "Projects"
+    url: projects.html
