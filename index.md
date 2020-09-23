@@ -11,7 +11,7 @@ Inside those MCE courses, I chose the <i><b>Image</b></i> specialization. I thus
 
 <br/>
 <div style="text-align: justify">
-I am very interested in all the Image field (Computational Imaging, Computer Vision, Image Processing, ML/DL applied to Images), and I am looking for an opportunity in September 2020 in Lyon, FR. 
+I am very interested in all the Image field (Computational Imaging, Computer Vision, Image Processing, ML/DL applied to Images), and I am looking for an opportunity in September 2020 in Lyon, FR. I am also interested in any Python development project, as all my personnal projects are written in Python. 
 </div>
 
 <br/>
